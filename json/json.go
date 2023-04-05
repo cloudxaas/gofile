@@ -1,5 +1,6 @@
 package cxfilejson
 
+/*
 import (
   "github.com/valyala/fastjson"
 	"io/ioutil"
@@ -25,3 +26,4 @@ func ParseJsonFile(file string) (*Config, error) {
 
 	return config, nil
 }
+*/
